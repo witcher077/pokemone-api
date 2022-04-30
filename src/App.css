@@ -1,0 +1,16 @@
+.light {
+  font-family: sans-serif;
+  text-align: center;
+}
+.dark {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+  
+}
+h1 {
+  font-family: "SEGA LOGO FONT";
+  font-size: 200;
+  color: #0ccab4;
+}
+

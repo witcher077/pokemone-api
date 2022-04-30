@@ -1,0 +1,23 @@
+ 
+ #container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+ 
+ .post{
+ width: 290px;
+ height: 265px;
+    border: 2px solid darkblue;
+    background-color: lightskyblue;
+    border-radius: 5px;
+    text-align: center;
+     font-size: 2em;
+     color: white;
+     font-weight: bold;
+     line-height: 1.4;
+     
+ }
+ 
